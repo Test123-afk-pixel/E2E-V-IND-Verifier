@@ -1,0 +1,9 @@
+{
+  "clean": "Accept",
+  "redirection": "P3",
+  "stuffing": "P4",
+  "malformed": "P2",
+  "tally-manipulation": "P5",
+  "board-edit": "P1",
+  "c1-no-test-ballots": "Accept, P3 not exercised"
+}
